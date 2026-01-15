@@ -10,7 +10,7 @@ A simple currency converter web app that allows users to select two currencies, 
 
 **Live Demo:**
 
-https://your-live-demo-link.com
+https://geremiq.github.io/currency-converter/
 
 
 
@@ -19,3 +19,4 @@ https://your-live-demo-link.com
 * HTML
 * CSS
 * JavaScript
+
